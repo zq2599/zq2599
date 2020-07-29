@@ -9,11 +9,7 @@
 
 ![willzhao's github stats](https://github-readme-stats.vercel.app/api?username=zq2599&show_icons=true&theme=dracula)
 
-- 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zq2599&layout=compact&hide=HTML)](https://github.com/zq2599/blog_demos)
-
-- 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zq2599&repo=blog_demos)](https://github.com/zq2599/blog_demos)
 

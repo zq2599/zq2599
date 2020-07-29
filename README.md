@@ -4,6 +4,7 @@
 - 🌱 正在努力学习Java、Kubernetes
 - 📫 联系方式: zq2599@gmail.com
 - 😄 现居住地: 深圳
+- 👯 过往经历: 华为、腾讯、阿里
 
 ![willzhao's github stats](https://github-readme-stats.vercel.app/api?username=zq2599&show_icons=true&theme=dracula)
 

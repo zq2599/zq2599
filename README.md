@@ -1,19 +1,14 @@
-### Hi there 👋
+### 关于程序员欣宸
 
-<!--
-**zq2599/zq2599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 正在维护的开源项目 [程序员欣宸的CSDN博客汇总和代码集](https://github.com/zq2599/blog_demos)
+- 🌱 正在努力学习Java、Kubernetes
+- 📫 联系方式: zq2599@gmail.com
+- 😄 现居住地: 深圳
+- ⚡ 过往: 华为、腾讯、阿里
 
 
-[![Willzhao's github stats](https://github-readme-stats.vercel.app/api?username=zq2599)](https://github.com/zq2599/github-readme-stats)
+![程序员欣宸的GitHub状态](https://github-readme-stats.vercel.app/api?username=zq2599)
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zq2599&repo=blog_demos)](https://github.com/zq2599/blog_demos)

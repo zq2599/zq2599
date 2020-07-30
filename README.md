@@ -1,3 +1,8 @@
+[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
+[![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zq2599@gmail.com)](mailto:zq2599@gmail.com)
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+
 ### 关于程序员欣宸
 
 - 🔭 正在维护的开源项目 [程序员欣宸的CSDN博客汇总和代码集](https://github.com/zq2599/blog_demos)

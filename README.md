@@ -1,7 +1,5 @@
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
-[![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zq2599@gmail.com)](mailto:zq2599@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+[![Blog Badge](https://img.shields.io/badge/blog-167w%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
+[![Mail Badge](https://img.shields.io/badge/-zq2599@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zq2599@gmail.com)](mailto:zq2599@gmail.com)
 
 ### 关于程序员欣宸
 
@@ -16,3 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zq2599&layout=compact&hide=HTML)](https://github.com/zq2599/blog_demos)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zq2599&repo=blog_demos)](https://github.com/zq2599/blog_demos)
+
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />

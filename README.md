@@ -9,10 +9,10 @@
 - 😄 现居住地: 深圳
 - 👯 过往经历: 华为、腾讯、阿里
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-
 ![willzhao's github stats](https://github-readme-stats.vercel.app/api?username=zq2599&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zq2599&layout=compact&hide=HTML)](https://github.com/zq2599/blog_demos)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zq2599&repo=blog_demos)](https://github.com/zq2599/blog_demos)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />

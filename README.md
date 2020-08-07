@@ -1,4 +1,4 @@
-[![Blog Badge](https://img.shields.io/badge/blog-168w%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
+[![Blog Badge](https://img.shields.io/badge/blog-170w%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
 [![Mail Badge](https://img.shields.io/badge/-zq2599@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zq2599@gmail.com)](mailto:zq2599@gmail.com)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 ### 关于程序员欣宸

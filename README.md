@@ -24,3 +24,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zq2599&layout=compact&hide=HTML)](https://github.com/zq2599/blog_demos)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zq2599&repo=blog_demos)](https://github.com/zq2599/blog_demos)
+
+
+### 星图（原创博客汇总）
+
+[![Stargazers over time](https://starchart.cc/zq2599/blog_demos.svg)](https://starchart.cc/zq2599/blog_demos)

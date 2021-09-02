@@ -1,5 +1,6 @@
 [![Blog Badge](https://img.shields.io/badge/blog-280w%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
 [![Mail Badge](https://img.shields.io/badge/-zq2599@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zq2599@gmail.com)](mailto:zq2599@gmail.com)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 ### 关于程序员欣宸
 
@@ -25,6 +26,11 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zq2599&repo=blog_demos)](https://github.com/zq2599/blog_demos)
 
+<p align="left"> 
+  访问量（始于2021年09月12日）<br><br>
+  <img src="https://profile-counter.glitch.me/zq2599/count.svg" />
+  <br>
+</p>
 
 ### 星图（原创博客汇总）
 

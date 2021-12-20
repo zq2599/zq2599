@@ -1,4 +1,4 @@
-[![Blog Badge](https://img.shields.io/badge/blog-280w%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
+[![Blog Badge](https://img.shields.io/badge/blog-310w%20pageview-brightgreen)](https://blog.csdn.net/boling_cavalry) 
 [![Mail Badge](https://img.shields.io/badge/-zq2599@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zq2599@gmail.com)](mailto:zq2599@gmail.com)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
